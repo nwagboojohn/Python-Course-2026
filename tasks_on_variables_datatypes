@@ -1,0 +1,62 @@
+# # Dynamic Type Tracker
+
+# # Storage variable for all values
+# storage = []
+
+# while True:
+#    # Collect anything the user enters
+#    user_input = input("Enter any input (Enter 'exit()' to exit): ")
+
+#    # If user enter 'exit()' then it should break
+#    if user_input == 'exit()':
+#       break
+
+#    # Store user's input in 'storage' variable
+#    storage.append(user_input)
+#    # The append is a method that takes or saves values.
+
+#    # Print user's value and datatype
+#    print('Value:', user_input)
+#    print('Datatype:', type(user_input))
+
+# # Print all values entered in a list
+# print('\nAll values entered:', storage)
+
+
+
+'''Dynamic Type Tracker'''
+'''To build this, we first need a variable where the user data would be stored
+    We also need to use the while loop for the break functionality to work properly
+    '''
+
+inputs = []
+
+while True:
+    # collects user input in other to determine what type data user enters
+    user_input = input('Enter any inputs (enter exit to exit): ')
+
+    # allows users to enter new line when they enter exit input
+    if user_input == 'exit':
+        break
+
+    # collects and stores user data 
+    inputs.append(user_input)
+
+    # prints user's values and data types
+    print('value :', user_input)
+    print('datatype :', type(user_input))
+
+    if user_input == '':
+        print('\nAll data collected : No data collected')
+
+print('\nAll data collected : ', inputs)
+
+
+
+
+
+
+
+       
+
+
