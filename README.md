@@ -4,10 +4,9 @@
 This folder contains materials and projects for learning Python programming for 2026.
  
 ## Contents
-- **Lessons**: Core Python concepts and tutorials
+- **Lessons**: Core Python concepts and exercises
 - **Exercises**: Practice problems and coding challenges
 - **Projects**: Hands-on projects to apply your skills
-- **Resources**: Additional learning materials and references
 
 ## Getting Started
 1. Review the lesson materials in order 
@@ -16,7 +15,7 @@ This folder contains materials and projects for learning Python programming for 
 4. Reference the resources folder as needed
 
 ## Topics Covered
-- Python basics (variables, data types, operators)
+- Python basics (strings, variables, data types, operators)
 - Control flow (if statements, loops)
 - Functions and modules
 - Object-oriented programming
@@ -33,4 +32,5 @@ Started: December 2025
 
 
 Happy learning!
+
 
