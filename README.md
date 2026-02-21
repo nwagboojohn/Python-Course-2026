@@ -7,7 +7,7 @@ This folder contains materials and projects for learning Python programming for 
 - **Lessons**: Core Python concepts and exercises
 - **Exercises**: Practice problems and coding challenges
 - **Projects**: Hands-on projects to apply your skills
-
+ 
 ## Getting Started   
 1. Review the lesson materials in order 
 2. Complete exercises after each section
@@ -32,6 +32,7 @@ Started: December 2025
 
 
 Happy learning!
+
 
 
 
