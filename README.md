@@ -2,7 +2,7 @@
 
 ## Overview
 This folder contains materials and projects for learning Python programming for 2026.
- 
+  
 ## Contents
 - **Lessons**: Core Python concepts and exercises
 - **Exercises**: Practice problems and coding challenges
@@ -32,6 +32,7 @@ Started: December 2025
 
 
 Happy learning!
+
 
 
 
