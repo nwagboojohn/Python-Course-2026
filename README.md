@@ -10,7 +10,7 @@ This folder contains materials and projects for learning Python programming for 
  
 ## Getting Started    
 1. Review the lesson materials in order 
-2. Complete exercises after each section
+2. Complete exercises after each section 
 3. Work through projects to reinforce learning
 4. Reference the resources folder as needed
 
@@ -32,6 +32,7 @@ Started: December 2025
 
 
 Happy learning!
+
 
 
 
