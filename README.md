@@ -26,12 +26,13 @@ This folder contains materials and projects for learning Python programming for 
 Follow the structured progression from fundamentals to advanced topics. Practice regularly and complete all exercises before moving forward.
 
 ## Notes
-Started: December 2025
-
+Started: December 2025 
+ 
 ---
 
 
 Happy learning!
+
 
 
 
